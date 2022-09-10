@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/CBHRB/CBHRB</id>
+    <title>教师节快乐！</title>
+    <updated>2022-09-10T08:05:14.588Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/CBHRB/CBHRB"/>
+    <link rel="self" href="https://github.com/CBHRB/CBHRB/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://github.com/CBHRB/CBHRB/images/avatar.png</logo>
+    <icon>https://github.com/CBHRB/CBHRB/favicon.ico</icon>
+    <rights>All rights reserved 2022, 教师节快乐！</rights>
+    <entry>
+        <title type="html"><![CDATA[教师节快乐！]]></title>
+        <id>https://github.com/CBHRB/CBHRB/post/hello-gridea/</id>
+        <link href="https://github.com/CBHRB/CBHRB/post/hello-gridea/">
+        </link>
+        <updated>2022-09-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>✍️王老师您好！我是崔博涵。首先，祝您教师节快乐！<br>
+隔了三个月，越发地想您了，我有了新的老师，您也有了新的学生。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>✍️王老师您好！我是崔博涵。首先，祝您教师节快乐！<br>
+隔了三个月，越发地想您了，我有了新的老师，您也有了新的学生。</p>
+]]></content>
+    </entry>
+</feed>
